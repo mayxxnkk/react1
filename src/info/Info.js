@@ -23,8 +23,8 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
+    firstName: "Aayan",
+    lastName: "MAteen",
     initials: "js", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
@@ -37,15 +37,15 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in the India'
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "Freelancer"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "aayanmtn470@gmail.com"
         }
     ],
     socials: [
@@ -55,12 +55,12 @@ export const info = {
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
+            link: "https://instagram.com/mtnaayan",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/",
             icon: "fa fa-github",
             label: 'github'
         },
@@ -78,11 +78,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Aayan. I'm a Freelancer. I am planinig to do engeneering  Electronics , I enjoy riding motorcycles along the himalayas, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', ],
+            exposedTo: ['nodejs', 'python', 'linux','Burp Suite','NIST','ISO27000','CIS Top 20 Controls',]
         }
     ,
     hobbies: [
@@ -91,15 +91,15 @@ export const info = {
             emoji: '📖'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'travel',
+            emoji: '✈️'
         },
         {
-            label: 'movies',
-            emoji: '🎥'
+            label: 'motorcycle',
+            emoji: '🏍️'
         },
         {
-            label: 'cooking',
+            label: 'food',
             emoji: '🌶'
         }
 // Same as above, change the emojis to match / relate to your hobbies or interests.
