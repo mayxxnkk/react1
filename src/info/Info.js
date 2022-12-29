@@ -50,7 +50,7 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/aayan.mateen/",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
@@ -60,17 +60,17 @@ export const info = {
             label: 'instagram'
         },
         {
-            link: "https://github.com/",
+            link: "https://github.com/aayanmtn",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/aayan-mateen-748221189/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://twitter.com/aayan__mateen",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -108,32 +108,32 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            live: "#", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/aayanmtn", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
             title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "#",
+            source: "#",
             image: mock2
         },
         {
             title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "#",
+            source: "#",
             image: mock3
         },
         {
             title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "#",
+            source: "#",
             image: mock4
         },
         {
             title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "#",
+            source: "#",
             image: mock5
         }
     ]
