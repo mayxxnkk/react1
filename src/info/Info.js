@@ -24,9 +24,9 @@ of what each of the values mean.
 
 export const info = {
     firstName: "Aayan",
-    lastName: "MAteen",
+    lastName: "Mateen",
     initials: "am", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    position: "a Freelancer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -81,7 +81,7 @@ export const info = {
     bio: "Hello! I'm Aayan. I'm a Freelancer. I am planinig to do engeneering  Electronics , I enjoy riding motorcycles along the himalayas, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', ],
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3','aws','jenkins','terraform','kubernates' ],
             exposedTo: ['nodejs', 'python', 'linux','Burp Suite','NIST','ISO27000','CIS Top 20 Controls',]
         }
     ,
