@@ -78,11 +78,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Aayan. I'm a Freelancer. I am planinig to do engeneering  Electronics , I enjoy riding motorcycles along the himalayas, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Aayan. I'm a Freelancer. I build and fix pipeline but I am not a PLUMBER . I am DevOps engineer. I am doing engineering from the National Institute of Technology, Jalandhar in Information Technology, I enjoy riding motorcycles along the himalayas, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3','aws','jenkins','terraform','kubernates' ],
-            exposedTo: ['nodejs', 'python', 'linux','Burp Suite','NIST','ISO27000','CIS Top 20 Controls',]
+            proficientWith: ['JavaScript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3','aws','Jenkins','terraform','Kubernates','Docker ' ],
+            exposedTo: ['nodejs', 'Python', 'Linux','Burp Suite','NIST','ISO27000','CIS Top 20 Controls',]
         }
     ,
     hobbies: [
