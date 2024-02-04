@@ -81,7 +81,7 @@ export const info = {
     bio: "Hello! I'm Mayank Singla. I'm a Freelancer. I build and fix pipeline but I am not a PLUMBER . I am Software engineer. I am doing engineering from the National Institute of Technology, Jalandhar in Information Technology, I enjoy Playing Football , & to Code is My Favourite Thing , and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['JavaScript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3',,'Jenkins','terraform','Kubernates','Docker ' ],
+            proficientWith: ['JavaScript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3','Jenkins','terraform','Kubernates','Docker ' ],
             exposedTo: ['nodejs', 'Python', 'Linux','Burp Suite','NIST','ISO27000','CIS Top 20 Controls',]
         }
     ,
