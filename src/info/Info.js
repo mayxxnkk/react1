@@ -50,11 +50,6 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://www.facebook.com/aayan.mateen/",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
             link: "https://instagram.com/mayxxnkk",
             icon: 'fa fa-instagram',
             label: 'instagram'
