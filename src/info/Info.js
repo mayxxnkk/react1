@@ -45,7 +45,7 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "aayanmtn470@gmail.com"
+            text: "mynksingla@gmail.com"
         }
     ],
     socials: [
@@ -55,22 +55,22 @@ export const info = {
             label: 'facebook'
         },
         {
-            link: "https://instagram.com/mtnaayan",
+            link: "https://instagram.com/mayxxnkk",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com/aayanmtn",
+            link: "https://github.com/mayxxnkk",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://www.linkedin.com/in/aayan-mateen-748221189/",
+            link: "https://www.linkedin.com/in/mayank-singla-957476285/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com/aayan__mateen",
+            link: "https://twitter.com/Mayxxnkk",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -78,25 +78,25 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Aayan. I'm a Freelancer. I build and fix pipeline but I am not a PLUMBER . I am DevOps engineer. I am doing engineering from the National Institute of Technology, Jalandhar in Information Technology, I enjoy riding motorcycles along the himalayas, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Mayank Singla. I'm a Freelancer. I build and fix pipeline but I am not a PLUMBER . I am Software engineer. I am doing engineering from the National Institute of Technology, Jalandhar in Information Technology, I enjoy Playing Football , & to Code is My Favourite Thing , and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['JavaScript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3','aws','Jenkins','terraform','Kubernates','Docker ' ],
+            proficientWith: ['JavaScript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3',,'Jenkins','terraform','Kubernates','Docker ' ],
             exposedTo: ['nodejs', 'Python', 'Linux','Burp Suite','NIST','ISO27000','CIS Top 20 Controls',]
         }
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
+            label: 'Gaming',
+            emoji: '🎮'
         },
         {
             label: 'travel',
             emoji: '✈️'
         },
         {
-            label: 'motorcycle',
-            emoji: '🏍️'
+            label: 'football',
+            emoji: '⚽'
         },
         {
             label: 'food',
